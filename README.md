@@ -1,6 +1,8 @@
 # CNN-Applications-in-Skin-Disease-Prediction-and-Detection-
 
-Abstract— Skin cancer remains one of the most 
+#Abstract
+
+Skin cancer remains one of the most 
 prevalent and deadly forms of cancer globally, 
 necessitating advancements in early detection and 
 accurate diagnosis to improve patient outcomes. This 
